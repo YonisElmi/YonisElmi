@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yonis Elmi Nur</h1>
 
-<h3 align="center">A Passionate Front-End App & MERN Stack Developer from Somalia 👨‍💻</h3>
+<h3 align="center">A Passionate FullStack & MERN Stack Developer from Somalia 👨‍💻</h3>
 
 <img align="right" alt="Coder GIF" height="300" width="350" src="https://camo.githubusercontent.com/7d2b796da68a6f1e8446bfb239e33f14063fac678590ab4e3884f6c8e8921412/68747470733a2f2f7777772e69726f6964746563686e6f6c6f676965732e636f6d2f7374617469632f686f6d652f696d616765732f6f65775f72727962622e676966" />
 
